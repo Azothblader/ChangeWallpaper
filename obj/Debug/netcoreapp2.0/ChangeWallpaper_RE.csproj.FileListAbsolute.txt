@@ -1,0 +1,11 @@
+C:\Users\4042\source\kanit-ptrr\ChangeWallpaper_RE\bin\Debug\netcoreapp2.0\ChangeWallpaper_RE.deps.json
+C:\Users\4042\source\kanit-ptrr\ChangeWallpaper_RE\bin\Debug\netcoreapp2.0\ChangeWallpaper_RE.runtimeconfig.json
+C:\Users\4042\source\kanit-ptrr\ChangeWallpaper_RE\bin\Debug\netcoreapp2.0\ChangeWallpaper_RE.runtimeconfig.dev.json
+C:\Users\4042\source\kanit-ptrr\ChangeWallpaper_RE\bin\Debug\netcoreapp2.0\ChangeWallpaper_RE.dll
+C:\Users\4042\source\kanit-ptrr\ChangeWallpaper_RE\bin\Debug\netcoreapp2.0\ChangeWallpaper_RE.pdb
+C:\Users\4042\source\kanit-ptrr\ChangeWallpaper_RE\obj\Debug\netcoreapp2.0\ChangeWallpaper_RE.csprojAssemblyReference.cache
+C:\Users\4042\source\kanit-ptrr\ChangeWallpaper_RE\obj\Debug\netcoreapp2.0\ChangeWallpaper_RE.AssemblyInfoInputs.cache
+C:\Users\4042\source\kanit-ptrr\ChangeWallpaper_RE\obj\Debug\netcoreapp2.0\ChangeWallpaper_RE.AssemblyInfo.cs
+C:\Users\4042\source\kanit-ptrr\ChangeWallpaper_RE\obj\Debug\netcoreapp2.0\ChangeWallpaper_RE.dll
+C:\Users\4042\source\kanit-ptrr\ChangeWallpaper_RE\obj\Debug\netcoreapp2.0\ChangeWallpaper_RE.pdb
+C:\Users\4042\source\kanit-ptrr\ChangeWallpaper_RE\obj\Debug\netcoreapp2.0\ChangeWallpaper_RE.csproj.CoreCompileInputs.cache
